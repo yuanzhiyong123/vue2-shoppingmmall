@@ -1,6 +1,6 @@
 # vuedemo
 
-> A Vue.js project
+> 用vue开发的一个移动商城项目，仅供学习使用。
 
 ## Build Setup
 
